@@ -1,0 +1,21 @@
+.container{
+  margin-top: 3%;
+  width: 450px;
+  border: solid 3px #662c66;
+  padding: 20px;
+  background-color: white;
+}
+.login-con.container{
+  margin-top: 10rem;
+}
+body{
+  /* color:#ebebeb; */
+  font-size: 13px;
+  background: #ad4b93;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #c55b0e, #3c025a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #78bdb0, #ad4b93); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+label.error {
+  color: red;
+  font-size: 12px;
+}
